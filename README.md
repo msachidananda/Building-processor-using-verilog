@@ -399,7 +399,7 @@ run -all
 
 ## 👤 Author
 
-**Anand** — VLSI aspirant, electronics and embedded systems enthusiast.
+**Sachidananda Mahapatra** — VLSI aspirant, electronics and embedded systems enthusiast.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/YOUR-PROFILE)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/YOUR-USERNAME)
